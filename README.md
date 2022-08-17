@@ -4,7 +4,7 @@
 <mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnisis&label=Profile%20views&color=0e75b6&style=flat" alt="agnisis" /> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT , REACT.JS , NEXT.JS , TAILWIND CSS , ROS ,ADRUINO**
+- 🌱 I’m currently learning **JAVASCRIPT , REACT.JS , NEXT.JS , TAILWIND CSS , ROS , ADRUINO**
 
 - 📫 How to reach me **agnisisdutta16@gmail.com**
 
