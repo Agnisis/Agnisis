@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Dev<br>👯 Also into Robotics and Machine Learning<br>🤝 Love to work on Complex Projects<br>🌱 Proficient in Programing in C++<br>💬 Game & Bikes maniac 
+🔭 I’m currently working on Full Stack Web Dev<br>👯 Also into Robotics and Machine Learning<br>🤝 Love to work on Complex Projects<br>🌱 Proficient in Programing in C++<br>💬 Game & Bikes maniac
+
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/search?sca_esv=553477597&rlz=1C1CHBF_enIN1028IN1028&q=programmer+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjXgaOn78CAAxUZTWwGHbyPCH8Q0pQJegQIChAB&biw=1536&bih=707&dpr=1.25#imgrc=dbrfb5dvHO4gVM)">
 
 
 ## 🌐 Socials:
