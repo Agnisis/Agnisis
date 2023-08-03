@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agnisis Dutta</h1>
 <h3 align="center">A FullStack Developer</h3>
 
-<p align="center"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=agnisis&label=Profile%20views&color=0e75b6&style=flat" alt="agnisis" /> </p>" alt="agnisis" /> </p>
+<p align="center"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=agnisis&label=Profile%20views&color=0e75b6&style=flat" alt="agnisis" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnisis&label=Profile%20views&color=0e75b6&style=flat" alt="agnisis" /> </p>
 
 - 🔭 I’m currently working on **MERN**
