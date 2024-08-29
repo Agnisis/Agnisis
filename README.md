@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="Center">
   <img src="https://github-readme-stats.vercel.app/api?username=Agnisis&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&custom_title=My%20Status" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Agnisis&locale=en&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agnisis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=ocean_dark&hide_border=false&custom_title=Mostly%20Worked%20On" height="150" alt="languages graph"  />
