@@ -1,12 +1,4 @@
-<h3 align="center">Hi 👋! My name is Agnisis 😇<br>🔭 I'm a Fullstack Developer 👨‍💻<br>👯 Also works on Deep Learning and LLM's 🤖<br>🤝 Love to work on Complex Projects at Night 👀!<br>🌱 Proficient in Programing in C++ for DSA !!!<br>💬 Game & Bikes maniac 😅</h3>
-
-###
-
-<div align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agnisis&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&custom_title=My%20Status" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Agnisis&locale=en&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agnisis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=ocean_dark&hide_border=false&custom_title=Mostly%20Worked%20On" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Hi 👋! My name is Agnisis 😇<br>🔭 I'm a Fullstack Developer 👨‍💻<br>👯 Also works on Deep Learning and LLM's 🤖<br>🤝 Love to work on Complex Projects at Night 👀!<br>🌱 Proficient in Programing in C++ for DSA !!!<br>💬 Game & Bikes maniac 😅</h3>
 
 ###
 
@@ -21,10 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="155" src="https://i.imgflip.com/91qytc.gif"  />
 
 ###
 
@@ -74,14 +62,27 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Agnisis/Agnisis/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Agnisis/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Agnisis&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&custom_title=My%20Status" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Agnisis&locale=en&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="252" src="https://i.imgflip.com/91qytc.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Agnisis.Agnisis&left_color=azure&right_color=aquamarine"  />
 </div>
 
 ###
@@ -91,4 +92,3 @@
 <h2 align="center">Its time to build !!! ✌️</h2>
 
 ###
-
