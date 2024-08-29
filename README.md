@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Agnisis 😇<br>🔭 I'm a Fullstack Developer 👨‍💻<br>👯 Also works on Deep Learning and LLM's 🤖<br>🤝 Love to work on Complex Projects at Night 👀!<br>🌱 Proficient in Programing in C++ for DSA !!!<br>💬 Game & Bikes maniac 😅</h3>
+<h3 align="center">Hi 👋! My name is Agnisis 😇<br>🔭 I'm a Fullstack Developer 👨‍💻<br>👯 Also works on Deep Learning and LLM's 🤖<br>🤝 Love to work on Complex Projects at Night 👀!<br>🌱 Proficient in Programing in C++ for DSA !!!<br>💬 Game & Bikes maniac 😅</h3>
 
 ###
 
