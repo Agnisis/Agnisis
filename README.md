@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Agnisis.Agnisis&left_color=azure&right_color=aquamarine"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Agnisis.Agnisis&left_color=dodgerblue&right_color=coral"  />
 </div>
 
 ###
